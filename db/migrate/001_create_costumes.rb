@@ -8,5 +8,6 @@ class CreateCostumes << ActiveRecord::Migration[4.2]
       t.string :size
       t.timestamps
     end
+  end
   
 end
